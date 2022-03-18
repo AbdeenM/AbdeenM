@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdeenM](https://github.com/AbdeenM)
 
-- 📝 I regularly write articles on [https://medium.com](https://medium.com)
-
 - 💬 Ask me about **Software, Hardware and the layers in between**
 
 - 📫 How to reach me **social@abdeen.dev**
